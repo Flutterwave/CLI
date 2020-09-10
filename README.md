@@ -93,7 +93,3 @@ The current supported sample apps are:
 - `Tokenized Charges`
 - `Transfers`
 - `Webhook`
-
- 
-Chigbo Ezejiugo  
-emmajiugo@gmail.com
