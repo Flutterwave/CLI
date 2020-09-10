@@ -1,18 +1,18 @@
 {
-    "name": "emmajiugo/flutterwave-cli",
+    "name": "flutterwavedev/cli",
     "description": "A CLI app that helps you test Flutterwave payment on the go and also generate sample apps.",
     "keywords": ["framework", "flutterwave", "rave", "rave cli", "flutterwave cli", "rave console", "flutterwave console", "cli"],
     "homepage": "https://flutterwave.com",
     "type": "project",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/emmajiugo/flutterwave-cli/issues",
-        "source": "https://github.com/emmajiugo/flutterwave-cli"
+        "issues": "https://github.com/Flutterwave/CLI/issues",
+        "source": "https://github.com/Flutterwave/CLI"
     },
     "authors": [
         {
-            "name": "Chigbo Ezejiugo",
-            "email": "emmajiugo@gmail.com"
+            "name": "Flutterwave Developers",
+            "email": "developers@flutterwavego.com"
         }
     ],
     "require": {
