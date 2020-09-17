@@ -3,10 +3,14 @@
 </p>
 
 # Flutterwave CLI
+
+![Packagist Version](https://img.shields.io/packagist/v/flutterwavedev/cli)
+
+
 The Flutterwave CLI application helps you tests some features of Flutterwave on the go and also generate sample applications that shows you the simplest and easy way of how these features work and how to implement them into your own application or platform.
 
 <p align="center">
-    <img title="Flutterwave CLI" height="auto" src="./img/flw-cli.png" width="70%"/>
+    <img title="Flutterwave CLI" height="auto" src="./img/flw-cli-1.png" width="70%"/>
 </p>
 
 ## Setup:
@@ -27,6 +31,10 @@ Support for other OS is upcoming. -->
 NOTE: To use your LIVE credential when making a call,  
 add the LIVE tag (--live) to all your commands.
 ```
+<p align="center">
+    <img title="Flutterwave CLI setup" height="auto" src="./img/flw-cli-2.png" width="70%"/>
+</p>
+
 
 ### Quickly Open API Documentation for a Feature
 Quickly navigate to our API documentation for any Flutterwave feature using this command `flutterwave docs --feature=webhook`.  
