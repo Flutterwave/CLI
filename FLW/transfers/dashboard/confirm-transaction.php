@@ -15,7 +15,7 @@
 	        //$currency = $_SESSION['currency']; //Correct Currency from Server
 
 	        $query = array(
-	            "SECKEY" => "FLWSECK-ea81e705d82161de5b7757c897d96ba4-X",//remember to pull key from table and not paste it here
+	            "SECKEY" => "FLWSECK-xxxxxxxxxxxxxxxxxxxxx-X",//remember to pull key from table and not paste it here
 	            "txref" => $ref,
 	            "include_payment_entity" => "1"
 	        );
